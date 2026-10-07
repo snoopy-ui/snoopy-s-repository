@@ -8,6 +8,7 @@ rubric_version: RUBRIC-DEMO-1
 title: 数据清洗与结果说明
 open_at: 2026-10-07 09:00
 close_at: 2026-10-14 18:00
+deadline: 2026-10-14 18:00
 duration_seconds: 1200
 estimated_minutes: 45
 audience: SCHOOL-DEMO-01/CLASS-DEMO-01
